@@ -1,0 +1,6 @@
+
+*.class
+Git_lab_test/.project
+Git_lab_test/.classpath
+.project
+*.prefs
